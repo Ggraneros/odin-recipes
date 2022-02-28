@@ -1,15 +1,26 @@
 .Titulo {
     text-align: center;
-    background-color: black;
-    color: aliceblue;
+    background-color: bisque;
+    color: royalblue;
+    margin: 80px;
+    margin-top: 0px;
+    padding: 30px;
+    border: 10px;
+    border-color: blue;   
 
 }
 
 .asado, 
 .pollo, 
 .milanesas {
+    text-align: center;
+    border-color: grey;
     background-color: yellow;
     color: black;
     text-align: center;
 
+}
+
+*{
+    text-align: center;
 }
